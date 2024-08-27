@@ -1,0 +1,87 @@
+{
+    "navbar": {
+      "logo": "My Library",
+      "createBook": "Create Book",
+      "createPatron": "Create Patron",
+      "listAllBooks": "List All Books",
+      "listPatrons": "List Patrons",
+      "listOverduedBooks": "List Overdue Books",
+      "listCheckedOutBooks": "List Checked Out Books",
+      "checkingOutBooks": "Checking Out Books"
+    },
+    "checkedoutbooks": {
+      "book_id": "Book ID",
+      "name": "Name",
+      "description": "Description",
+      "overdue": "Overdue",
+      "owner": "Owner",
+      "action": "Action",
+      "clear_patron": "Clear Owner",
+      "checked_out_books": "Checked Out Books"
+    },
+    "checkingOutBooks": {
+      "select": "Select",
+      "book_id": "Book ID",
+      "name": "Name",
+      "description": "Description",
+      "overdue": "Overdue",
+      "owner": "Owner",
+      "check_out_books": "Check Out Books",
+      "select_owner": "Select Owner",
+      "assign_owner": "Assign Owner"
+    },
+    "createBook": {
+      "create_a_book": "Create a Book",
+      "name": "Name",
+      "name_placeholder": "Book Name",
+      "description": "Description",
+      "description_placeholder": "Book Description",
+      "overdue": "Overdue",
+      "overdue_placeholder": "Overdue Duration",
+      "save": "Save"
+    },
+    "createPatron": {
+      "create_patron": "Create a Patron",
+      "name": "Name",
+      "name_placeholder": "Patron Name",
+      "description": "Description",
+      "description_placeholder": "Patron Description",
+      "save": "Save",
+      "error_occurred": "An error occurred"
+    },
+    "fetch": {
+      "list_all_books": "List All Books",
+      "name": "Name",
+      "description": "Description",
+      "overdue": "Overdue",
+      "save": "Save",
+      "edit": "Edit",
+      "delete": "Delete",
+      "error_occurred": "An error occurred",
+      "owner": "Owner"
+    },
+    "overdued_books": {
+      "book_id": "Book ID",
+      "name": "Name",
+      "description": "Description",
+      "overdue": "Overdue",
+      "owner": "Owner",
+      "unknown": "Unknown",
+      "label": "Overdue Books"
+    },
+    "patrons": {
+      "patron_id": "Patron ID",
+      "name": "Name",
+      "surname": "Surname",
+      "edit": "Edit",
+      "delete": "Delete",
+      "list_label": "List Patrons",
+      "name_label": "Name",
+      "surname_label": "Surname",
+      "name_placeholder": "Name",
+      "surname_placeholder": "Surname",
+      "save": "Save",
+      "error_update": "An error occurred while updating the patron."
+    }
+  }
+  

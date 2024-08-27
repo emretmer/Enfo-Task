@@ -1,0 +1,87 @@
+{
+    "navbar": {
+      "logo": "Ma Bibliothèque",
+      "createBook": "Créer un Livre",
+      "createPatron": "Créer un Lecteur",
+      "listAllBooks": "Lister Tous les Livres",
+      "listPatrons": "Lister les Lecteurs",
+      "listOverduedBooks": "Lister les Livres En Retard",
+      "listCheckedOutBooks": "Lister les Livres Empruntés",
+      "checkingOutBooks": "Emprunter des Livres"
+    },
+    "checkedoutbooks": {
+      "book_id": "ID du Livre",
+      "name": "Nom",
+      "description": "Description",
+      "overdue": "En Retard",
+      "owner": "Propriétaire",
+      "action": "Action",
+      "clear_patron": "Effacer le Propriétaire",
+      "checked_out_books": "Livres Empruntés"
+    },
+    "checkingOutBooks": {
+      "select": "Sélectionner",
+      "book_id": "ID du Livre",
+      "name": "Nom",
+      "description": "Description",
+      "overdue": "En Retard",
+      "owner": "Propriétaire",
+      "check_out_books": "Emprunter des Livres",
+      "select_owner": "Sélectionner un Propriétaire",
+      "assign_owner": "Attribuer un Propriétaire"
+    },
+    "createBook": {
+      "create_a_book": "Créer un Livre",
+      "name": "Nom",
+      "name_placeholder": "Nom du Livre",
+      "description": "Description",
+      "description_placeholder": "Description du Livre",
+      "overdue": "En Retard",
+      "overdue_placeholder": "Durée du Retard",
+      "save": "Sauvegarder"
+    },
+    "createPatron": {
+      "create_patron": "Créer un Lecteur",
+      "name": "Nom",
+      "name_placeholder": "Nom du Lecteur",
+      "description": "Description",
+      "description_placeholder": "Description du Lecteur",
+      "save": "Sauvegarder",
+      "error_occurred": "Une erreur s'est produite"
+    },
+    "fetch": {
+      "list_all_books": "Lister Tous les Livres",
+      "name": "Nom",
+      "description": "Description",
+      "overdue": "En Retard",
+      "save": "Sauvegarder",
+      "edit": "Éditer",
+      "delete": "Supprimer",
+      "error_occurred": "Une erreur s'est produite",
+      "owner": "Propriétaire"
+    },
+    "overdued_books": {
+      "book_id": "ID du Livre",
+      "name": "Nom",
+      "description": "Description",
+      "overdue": "En Retard",
+      "owner": "Propriétaire",
+      "unknown": "Inconnu",
+      "label": "Livres En Retard"
+    },
+    "patrons": {
+      "patron_id": "ID du Lecteur",
+      "name": "Nom",
+      "surname": "Prénom",
+      "edit": "Éditer",
+      "delete": "Supprimer",
+      "list_label": "Lister les Lecteurs",
+      "name_label": "Nom",
+      "surname_label": "Prénom",
+      "name_placeholder": "Nom",
+      "surname_placeholder": "Prénom",
+      "save": "Sauvegarder",
+      "error_update": "Une erreur s'est produite lors de la mise à jour du lecteur."
+    }
+  }
+  

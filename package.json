@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "i18next": "^23.14.0",
+    "i18next-http-backend": "^2.6.1",
+    "react-i18next": "^15.0.1",
+    "react-router-dom": "^6.26.0"
+  }
+}

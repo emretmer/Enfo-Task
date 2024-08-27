@@ -1,0 +1,190 @@
+/* styles.css */
+.label {
+  font-size: 40px;
+}
+
+.controlGroup {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.button {
+  padding: 5px;
+  width: 50%;
+  box-sizing: border-box;
+  margin-bottom: 50px;
+  background-color: #2f4f4f;
+  color: #ffffff;
+}
+
+
+.crudButton {
+  padding: 5px;
+  width: 60px;
+  box-sizing: border-box;
+  background-color: #2f4f4f;
+  color: #ffffff;
+}
+
+.coloredButton{
+  background-color: #2f4f4f;
+  color: #ffffff;
+}
+
+/* --------------- CHECKOUT -------------- */
+
+.select {
+  padding: 5px;
+  width: 50%;
+  box-sizing: border-box;
+  margin-bottom: 5px;
+  margin-top: 5px;
+
+}
+
+.checkoutbutton {
+  padding: 5px;
+  width: 50%;
+  box-sizing: border-box;
+  margin-bottom: 5px;
+  background-color: #2f4f4f;
+  color: #ffffff;
+}
+
+/* ---------------------------------------- */
+
+/* --------------------CREATEBOOK/PATRON-------------------- */
+
+.formWrapper {
+  width: 100%;
+  max-width: 500px; 
+  margin: 0 auto; 
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 15px; 
+}
+
+.formGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 15px; 
+}
+
+.inputContainer {
+  display: flex;
+  justify-content: flex-start; 
+  align-items: center; 
+  gap: 10px; 
+}
+
+.formLabel {
+  flex-basis: 150px; 
+  text-align: left; 
+}
+
+.formInput {
+  flex-grow: 1;
+  padding: 8px;
+  font-size: 14px;
+  width: 100%; 
+  box-sizing: border-box; 
+}
+
+.buttonContainer {
+  text-align: right; 
+}
+
+.formButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #2f4f4f;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.formButton:hover {
+  background-color: #ffffff;
+  color: #2f4f4f;
+}
+
+/* ---------------------------------------- */
+
+.tableButton {
+  padding: 5px;
+  width: 14 0px;
+  box-sizing: border-box;
+  margin-right: 5px;
+  margin: 5px;
+  background-color: #2f4f4f;
+  color: #ffffff;
+}
+
+.formTitle {
+  font-size: 50px;
+}
+
+.formContainer {
+  margin-top: 20px;
+}
+
+.formGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.input {
+  width: 100%;
+  padding: 4px;
+  box-sizing: border-box;
+  margin-left: 35px;
+
+}
+
+
+
+/* Create Patron */
+
+.label {
+  font-size: 50px;
+}
+
+.form-container {
+  margin-top: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.input {
+  width: 60%;
+  padding: 4px;
+  box-sizing: border-box;
+}
+
+.name-input {
+  margin-left: 37px;
+}
+
+.surname-input {
+  margin-left: 13px;
+}
+
+.button {
+  background-color: #2f4f4f;
+  padding: 5px;
+  width: 61%;
+  box-sizing: border-box;
+  margin-left: 80px;
+  margin-bottom: 20px;
+}

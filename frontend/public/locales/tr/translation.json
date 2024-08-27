@@ -1,0 +1,87 @@
+{
+    "navbar": {
+      "logo": "Kütüphanem",
+      "createBook": "Kitap Oluştur",
+      "createPatron": "Patron Oluştur",
+      "listAllBooks": "Tüm Kitapları Listele",
+      "listPatrons": "Patronları Listele",
+      "listOverduedBooks": "Gecikmiş Kitapları Listele",
+      "listCheckedOutBooks": "Ödünç Alınmış Kitapları Listele",
+      "checkingOutBooks": "Kitapları Ödünç Alma"
+    },
+    "checkedoutbooks": {
+      "book_id": "Kitap ID",
+      "name": "Ad",
+      "description": "Açıklama",
+      "overdue": "Gecikmiş",
+      "owner": "Sahip",
+      "action": "Eylem",
+      "clear_patron": "Sahibi Temizle",
+      "checked_out_books": "Ödünç Alınmış Kitaplar"
+    },
+    "checkingOutBooks": {
+      "select": "Seç",
+      "book_id": "Kitap ID",
+      "name": "Ad",
+      "description": "Açıklama",
+      "overdue": "Gecikmiş",
+      "owner": "Sahip",
+      "check_out_books": "Kitapları Ödünç Alma",
+      "select_owner": "Sahip Seç",
+      "assign_owner": "Sahip Ata"
+    },
+    "createBook": {
+    "create_a_book": "Bir Kitap Oluştur",
+    "name": "Ad",
+    "name_placeholder": "Kitap Adı",
+    "description": "Açıklama",
+    "description_placeholder": "Kitap Açıklaması",
+    "overdue": "Gecikmiş",
+    "overdue_placeholder": "Gecikme Süresi",
+    "save": "Kaydet"
+    },
+    "createPatron": {
+    "create_patron": "Bir Patron Oluştur",
+    "name": "Ad",
+    "name_placeholder": "Patron Adı",
+    "description": "Açıklama",
+    "description_placeholder": "Patron Açıklaması",
+    "save": "Kaydet",
+    "error_occurred": "Bir hata oluştu"
+    },
+    "fetch": {
+    "list_all_books": "Tüm Kitapları Listele",
+    "name": "Ad",
+    "description": "Açıklama",
+    "overdue": "Gecikmiş",
+    "save": "Kaydet",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "error_occurred": "Bir hata oluştu",
+    "owner": "Sahip"
+    },
+    "overdued_books": {
+    "book_id": "Kitap ID",
+    "name": "Ad",
+    "description": "Açıklama",
+    "overdue": "Gecikmiş",
+    "owner": "Sahip",
+    "unknown": "Bilinmiyor",
+    "label": "Gecikmiş Kitaplar"
+    },
+    "patrons": {
+    "patron_id": "Patron ID",
+    "name": "Ad",
+    "surname": "Soyad",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "list_label": "Patronları Listele",
+    "name_label": "Ad",
+    "surname_label": "Soyad",
+    "name_placeholder": "Ad",
+    "surname_placeholder": "Soyad",
+    "save": "Kaydet",
+    "error_update": "Patronu güncellerken bir hata oluştu."
+    }
+  }
+  
